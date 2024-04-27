@@ -1,0 +1,1 @@
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\MauiApp3.csproj;x64

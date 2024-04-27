@@ -1,0 +1,13 @@
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\bin\Debug\net8.0\MauiApp3.deps.json
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\bin\Debug\net8.0\MauiApp3.dll
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\bin\Debug\net8.0\MauiApp3.pdb
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\obj\Debug\net8.0\MauiApp3.csproj.AssemblyReference.cache
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\obj\Debug\net8.0\MauiApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\obj\Debug\net8.0\MauiApp3.AssemblyInfoInputs.cache
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\obj\Debug\net8.0\MauiApp3.AssemblyInfo.cs
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\obj\Debug\net8.0\MauiApp3.csproj.CoreCompileInputs.cache
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\obj\Debug\net8.0\XamlC.stamp
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\obj\Debug\net8.0\MauiApp3.dll
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\obj\Debug\net8.0\refint\MauiApp3.dll
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\obj\Debug\net8.0\MauiApp3.pdb
+C:\Users\schmi\OneDrive\Documents\Mobile Application Development\MauiApp3\MauiApp3\obj\Debug\net8.0\ref\MauiApp3.dll

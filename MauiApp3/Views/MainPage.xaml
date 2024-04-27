@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    x:Class="MauiApp3.Views.MainPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://schemas.microsoft.com/dotnet/2021/maui/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:MauiApp3"
+    Title="MauiApp3"
+    mc:Ignorable="d">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid RowDefinitions="*,40">
+                <StackLayout
+                    Padding="30"
+                    Spacing="25">
+                    
+                    <Label
+                        x:Name="CounterLabel"
+                        FontAttributes="Bold"
+                        FontSize="18"
+                        HorizontalOptions="Center"
+                        Style="{StaticResource MauiLabel}"
+                        Text="Current count: 0" />
+
+                    <DatePicker
+                        x:Name="MyDatePicker"
+                        MinimumDate="01/01/1900"
+                        MaximumDate="12/31/2050"/>
+                    
+                    <Button
+                        Clicked="OnCounterClicked"
+                        HorizontalOptions="Center"
+                        SemanticProperties.Hint="Counts the number of times you click"
+                        Style="{StaticResource PrimaryAction}"
+                        Text="How much longer until you can drink alcoholic" />
+                    
+                </StackLayout>
+                <Grid
+                    Grid.Row="1"
+                    BackgroundColor="{AppThemeBinding Dark={StaticResource BackgroundDark},
+                                                      Light={StaticResource Primary}}">
+
+                    <Label
+                        x:Name="VersionLabel"
+                        HorizontalOptions="Center"
+                        TextColor="{StaticResource White}"
+                        VerticalOptions="Center" />
+
+                </Grid>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
